@@ -59,9 +59,9 @@ document.getElementById("numberConversionOutput").innerHTML = numberConversionOu
 
 
 // Part 3
-let price = 32; //32
-let taxRate = .08; // 
-let shipping = 4; //
+let price = 16; //32
+let taxRate = .08;  
+let shipping = 4; 
 
 let subtotal = price + shipping;
 let tax = subtotal * taxRate;
