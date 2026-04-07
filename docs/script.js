@@ -48,9 +48,9 @@ if (Number.isInteger(conversion1)) {
 }
 let message2;
 if (Number.isNaN(conversion2)) {
-    message2 = `The value ${value2} is a valid number.`
-} else {
     message2 = `The value ${value2} is not a valid number.`
+} else {
+    message2 = `The value ${value2} is a valid number.`
 }
 
 var numberConversionOutput = `${result1} <br> ${result2} <br> ${result3} <br> ${result4} <br> ${message1} <br> ${message2}`;
