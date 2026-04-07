@@ -1,4 +1,7 @@
+## Link To Pages
 https://marloncsun.github.io/COMP484HW9/
+
+## Screenshot
 ![Project Screenshot](docs/Screenshot_HW9.png)
 
 ## Reflection
