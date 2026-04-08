@@ -53,11 +53,11 @@ if (Number.isNaN(conversion2)) {
     message2 = `The value ${value2} is a valid number.`
 }
 
-var numberConversionOutput = `${result1}
-${result2}
-${result3}
-${result4}
-${message1}
+var numberConversionOutput = `${result1} <br>
+${result2} <br>
+${result3} <br>
+${result4} <br>
+${message1} <br>
 ${message2}`;
 
 document.getElementById("numberConversionOutput").innerHTML = numberConversionOutput;
